@@ -27,10 +27,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naman17104&theme=tokyonight&hide_border=true&background=00000000" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman17104&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/naman17104/naman17104/output/github-contribution-grid-snake-dark.svg" />
