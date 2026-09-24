@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/wave?color=0:0f0c29,100:302b63&height=180&section=header&text=Nihar%20Rohilla&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Nihar%20Rohilla&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F7EFF&center=true&vCenter=true&width=550&lines=Freelance+AI+Engineer;AI%2FML+Enthusiast;Building+Real+World+Projects;From+Dausa%2C+Rajasthan" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F7EFF&center=true&vCenter=true&width=550&lines=Freelance+AI+Engineer;AI%2FML+Enthusiast;Building+Real+World+Projects;From+Jaipur%2C+Rajasthan" alt="Typing SVG" /></a>
 </p>
 
 ### 👨‍💻 About Me
@@ -11,10 +11,9 @@
 - ⚡ Freelance AI Engineer | Open to AI Roles
 
 ### 🛠️ Tech Stack
-[Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-[React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-[TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow)
-[MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,react,tensorflow,pytorch,mongodb,git,github,vscode,cpp" />
+</p>
 
 ### 📊 Stats
 <p align="center">
