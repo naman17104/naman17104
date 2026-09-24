@@ -22,5 +22,5 @@
 </p>
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/naman17104/naman17104/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://github.com/naman17104/naman17104/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
