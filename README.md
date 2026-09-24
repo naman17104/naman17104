@@ -21,7 +21,15 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,react,tensorflow,pytorch,mongodb,git,github,vscode,cpp" />
 </p>
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naman17104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman17104&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
 ### 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naman17104&show_icons=true&theme=tokyonight" height="150"/>
