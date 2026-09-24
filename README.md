@@ -23,8 +23,7 @@
 
 ### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naman17104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naman17104&theme=tokyonight&hide_border=true&background=00000000" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naman17104&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
 ### 🐍 Contribution Snake
