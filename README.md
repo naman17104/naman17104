@@ -20,3 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=naman17104&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naman17104&theme=tokyonight" height="150"/>
 </p>
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/naman17104/naman17104/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</p>
