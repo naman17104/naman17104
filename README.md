@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=80&lines=Hey+There!+I'm+Nihar+Rohilla+👋;Freelance+AI+Engineer;Building+Real-time+Voice+Agents" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naman17104&label=Profile%20views&color=8A2BE2&style=flat" alt="views" />
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Nihar%20Rohilla&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <p align="center">
