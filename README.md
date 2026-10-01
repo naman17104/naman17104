@@ -105,6 +105,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:0f172a&height=3" width="100%" />
 
+<h2 align="center">[ Journey ]</h2>
+
+<div align="center">
+<img src="timeline.svg" width="760" alt="journey timeline" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:0f172a&height=3" width="100%" />
+
 <h2 align="center">[ Experience ]</h2>
 
 **Data Scientist Intern, Hyrestack Consulting, Jaipur** (4 May 2026 – 4 Aug 2026)
@@ -147,6 +155,12 @@
     </td>
   </tr>
 </table>
+
+<h3 align="center">🎙️ How the AI receptionist works</h3>
+
+<div align="center">
+<img src="flow.svg" width="800" alt="AI receptionist flow" />
+</div>
 
 <div align="center"><b>Show some ❤️ by starring ⭐ some of the repositories!</b></div>
 
@@ -221,7 +235,7 @@
 
 <br><br>
 
-<img src="thanks.svg" width="480" alt="Thanks for your support" />
+<img src="thanks.svg" width="720" alt="Thanks for your support" />
 
 </div>
 
