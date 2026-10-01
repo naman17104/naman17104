@@ -1,93 +1,145 @@
 <div align="center">
-<img src="https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&center=true&vCenter=true&width=430&height=50&color=A855F7&lines=Hi%2C+I'm+Nihar+Rohilla+%F0%9F%91%8B;Real-time+Voice+AI+Builder" />
-<p><b>AI Engineer | LiveKit + Gemini + RAG | Jaipur, India</b></p>
-<img src="https://komarev.com/ghpvc/?username=naman17104&label=Views&style=flat-square&color=8A2BE2" /> <img src="https://img.shields.io/github/followers/naman17104?style=flat-square" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=200&section=header&text=Hi%2C%20I%27m%20Nihar%20Rohilla&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Voice%20AI%20Builder&descAlignY=58&descSize=18" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=AI+%26+ML+Student+%40+Poornima+University;Data+Scientist+Intern+%40+Hyrestack+Consulting;Building+Real-time+Voice+AI+Agents;Open+to+Data+Science+%2F+ML+Internships" alt="Typing SVG" />
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=naman17104&style=for-the-badge&color=7c3aed)
+![Location](https://img.shields.io/badge/Jaipur-India-orange?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nihar%20Rohilla-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/nihar-rohilla-17104aire)
+[![Email](https://img.shields.io/badge/Email-niharrohilla%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niharrohilla@gmail.com)
+
 </div>
 
-### 👨‍💻 About Me
-- 🔭 Building **Rohilla Dental Clinic.AI** - 24/7 AI Voice Agent
-- ⚡ Stack: `Python` `LiveKit` `Gemini` `RAG` `FastAPI` `TS` `Three.js`
-- 🎙️ Latency: `<500ms` | Auto Booking & Reminders
-- 💬 Ask: Voice AI, RAG, AI Agents
-- 📫 Username: `naman17104`
+---
 
-### 🛠️ Tech Stack
+## 👋 Hello there, fellow `<coder/>`
+
+> [!NOTE]
+> 🔭 **Currently building:** Rohilla Dental Clinic AI, a 24/7 AI voice receptionist for a real dental clinic in Chaksu.
+
+> [!IMPORTANT]
+> 🎓 **Studying:** BCA in Artificial Intelligence & Machine Learning at Poornima University, Jaipur (2024–2027).
+
+> [!TIP]
+> 🤝 **Open to:** Data Science / ML internships, AI projects and collaborations. Ask me about Voice AI, NLP and LLM apps.
+
+---
+
+## 🛠️ Skills
+
+<table>
+  <tr>
+    <th>Programming</th>
+    <th>Data & ML</th>
+    <th>NLP & Gen AI</th>
+    <th>Web & Tools</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/SAS%20Viya-0066B3?style=for-the-badge" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/TF--IDF-7c3aed?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Cosine%20Similarity-7c3aed?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/LiveKit-0f172a?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/RAG-7c3aed?style=for-the-badge" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Experience
+
+**Data Scientist Intern, Hyrestack Consulting, Jaipur** (4 May 2026 – 4 Aug 2026)
+- Cleaned, preprocessed and analyzed recruitment and candidate datasets with Python, Pandas and NumPy.
+- Performed EDA and applied ML / NLP (TF-IDF, cosine similarity) for candidate-job matching.
+
+---
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/naman17104/Rohilla-Dental-Chaksu">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=naman17104&repo=Rohilla-Dental-Chaksu&theme=tokyonight&hide_border=true" />
+      </a>
+      <br><b>🦷 Rohilla Dental Clinic AI</b> <i>(in progress)</i><br>
+      AI voice receptionist that handles patient calls, answers queries and books appointments.<br>
+      <code>Python</code> <code>LiveKit</code> <code>Gemini</code> <code>RAG</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/naman17104/smart-study-scheduler">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=naman17104&repo=smart-study-scheduler&theme=tokyonight&hide_border=true" />
+      </a>
+      <br><b>📅 Smart Study Scheduler</b><br>
+      Study planner where students add tasks by priority, date and time, with reminders and progress tracking.<br>
+      <code>TypeScript</code> <code>Next.js</code> <code>MongoDB</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,nodejs,tailwind,threejs,docker,vercel,git&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/LiveKit-00C2FF?style=flat-square&logo=livekit&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=googlebard&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat-square"/> <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=naman17104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman17104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img src="https://streak-stats.demolab.com/?user=naman17104&theme=tokyonight&hide_border=true&background=0d1117" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naman17104&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/naman17104/naman17104/output/github-snake-dark.svg" alt="snake" />
+
 </div>
 
-### 📊 GitHub Analytics
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=naman17104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&count_private=true" width="100%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naman17104&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=8A2BE2" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman17104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" width="100%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=naman17104&theme=tokyonight&no-frame=true&column=6&margin-w=5&margin-h=5" width="100%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naman17104&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" width="100%"/>
-</div>
+---
 
-### 🐍 Contributions
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
+## 🎯 Hobbies
 
-### 🚀 Top Projects
-**🦷 Rohilla Dental Clinic.AI**
-> Real-time Voice Agent | <500ms | Gemini + RAG
-> Auto appointment booking
-> 💻 [Code](https://github.com/naman1734/Rohilla-Dental-Clinic.AI)
+🎮 Gaming &nbsp;|&nbsp; 🎧 Music &nbsp;|&nbsp; 🤖 AI Building &nbsp;|&nbsp; 🌐 3D Web
 
-**📅 Smart Study Scheduler - 3D**
-> 88.9% TypeScript | Three.js + Pomodoro
-> 🔗 [Live](https://smart-study-scheduler-rho.vercel.app) | 💻 [Code](https://github.com/naman1734/smart-study-scheduler)
+---
 
 <div align="center">
-<img src="https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
 
-### [ Hobbies ]
-🎙️ Voice AI | 🤖 AI Agents | 🌌 3D Web | 🎧 Music
-<br/>
-<img src="https://spotify-github-profile.kittinanx.com/api/spotify-playing?background_color=0d1117&border_color=A855F7&theme=novatorem" width="100%"/>
-<br/><br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d285065b4f9.gif" width="100%"/>
-<br/>
-<i>"Building AI that talks like human & works for real"</i>
-<br/><br/>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/168843476-0a1d1f3b-6a19-4a52-8a52-0e0cc1d11d7a.gif" width="80%"/>
-<br/><br/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b87d-5a920f24a293.gif" width="80"/> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e37134-d1fd-4de2-8b31-4f0146a9b22b.gif" width="80"/> <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7bee4d6b.gif" width="80"/>
-<br/><br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e795e2a8-4a4a-4be8-8ee8-4d30543fb90c.gif" width="60%"/>
+### All caught up! 👾
+*Take a break, write some code, do what you do best.*
 
-### ⏰ My Time - Jaipur, IST
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="150"/>
+**Let's build the future with AI. Open to collabs and AI/ML roles.**
 
-### Hexa Stack
-<img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,fastapi,tailwind,threejs,docker,vercel&theme=dark" />
+[⬆ Back to top](#)
 
-<br/>
-<img src="https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
-
-**All caught up! Take a break, write some code**
-
-#### ⭐ Stargazers
-<img src="https://reporoster.com/stars/dark/naman17104/naman17104" width="100%"/>
-
-#### 🍴 Forkers
-<img src="https://reporoster.com/forks/dark/naman17104/naman17104" width="100%"/>
-
-#### 👥 Contributors
-<a href="https://github.com/naman17104/naman17104/graphs/contributors"><img src="https://contrib.rocks/image?repo=naman17104/naman17104" /></a>
-
-<br/><br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c02e66.gif" width="150"/>
-
-### ☕ Thanks for your support 💛
-**Open to AI Roles & Collabs**
-<br/>
-[Back to Top]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=120&section=footer" alt="footer" />
 
 </div>
-<img src="https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
