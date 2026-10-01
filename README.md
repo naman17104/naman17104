@@ -94,6 +94,15 @@
   </tr>
 </table>
 
+<div align="center">
+
+### 📱 SCAN ME
+
+<a href="https://www.linkedin.com/in/nihar-rohilla-17104aire"><img src="assets/qr-linkedin.png" width="140" alt="LinkedIn QR" /></a>
+<br><sub>Scan to open my LinkedIn</sub>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:0f172a&height=3" width="100%" />
 
 <h2 align="center">[ Experience ]</h2>
@@ -139,6 +148,8 @@
   </tr>
 </table>
 
+<div align="center"><b>Show some ❤️ by starring ⭐ some of the repositories!</b></div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:0f172a&height=3" width="100%" />
 
 <h2 align="center">[ Stats ]</h2>
@@ -146,13 +157,13 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=naman17104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman17104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman17104&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <img src="https://streak-stats.demolab.com/?user=naman17104&theme=tokyonight&hide_border=true&background=0d1117" />
 
 ### 🧊 3D Contribution Graph
 
-<img src="https://raw.githubusercontent.com/naman17104/naman17104/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" width="100%" />
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" width="100%" />
 
 ### 🐍 Contribution Snake
 
@@ -170,7 +181,19 @@
 
 <br><br>
 
-*"Building AI that works for real businesses."*
+<img src="assets/terminal.svg" width="600" alt="terminal" />
+
+<h3><i>"Building AI that works for real businesses."</i></h3>
+
+### ⏰ My Time
+
+<img src="assets/clock.svg" width="200" alt="clock" /> &nbsp;&nbsp;&nbsp; <img src="assets/gears.svg" width="300" alt="gears" />
+
+<sub>Always time to build.</sub>
+
+### 🧬 Hexa Stack
+
+<img src="assets/hexagons.svg" width="400" alt="hexagon tech stack" />
 
 <br>
 
@@ -185,10 +208,30 @@
 ### All caught up! 👾
 *Take a break, write some code, do what you do best.*
 
-**Thanks for stopping by 💜 Let's build the future with AI. Open to AI/ML internships and collabs.**
+⭐ **Thanks for the support** ⭐
 
-[⬆ Back to top](#)
+#### 🌟 Stargazers
+<img src="https://img.shields.io/github/stars/naman17104/naman17104?style=for-the-badge&color=7c3aed&logo=github" alt="stars" />
 
+#### 🍴 Forkers
+<img src="https://img.shields.io/github/forks/naman17104/naman17104?style=for-the-badge&color=7c3aed" alt="forks" />
+
+#### 👥 Contributors
+<a href="https://github.com/naman17104/naman17104/graphs/contributors"><img src="https://contrib.rocks/image?repo=naman17104/naman17104" alt="contributors" /></a>
+
+<br><br>
+
+<img src="assets/thanks.svg" width="480" alt="Thanks for your support" />
+
+</div>
+
+<table width="100%">
+  <tr>
+    <td align="left"><a href="#">⬆ Back to Top</a></td>
+    <td align="right"><a href="#">⬆ Back to Top</a></td>
+  </tr>
+</table>
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=120&section=footer" alt="footer" />
-
 </div>
