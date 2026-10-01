@@ -98,7 +98,7 @@
 
 ### 📱 SCAN ME
 
-<a href="https://www.linkedin.com/in/nihar-rohilla-17104aire"><img src="assets/qr-linkedin.png" width="140" alt="LinkedIn QR" /></a>
+<a href="https://www.linkedin.com/in/nihar-rohilla-17104aire"><img src="qr-linkedin.png" width="140" alt="LinkedIn QR" /></a>
 <br><sub>Scan to open my LinkedIn</sub>
 
 </div>
@@ -181,19 +181,19 @@
 
 <br><br>
 
-<img src="assets/terminal.svg" width="600" alt="terminal" />
+<img src="terminal.svg" width="600" alt="terminal" />
 
 <h3><i>"Building AI that works for real businesses."</i></h3>
 
 ### ⏰ My Time
 
-<img src="assets/clock.svg" width="200" alt="clock" /> &nbsp;&nbsp;&nbsp; <img src="assets/gears.svg" width="300" alt="gears" />
+<img src="clock.svg" width="200" alt="clock" /> &nbsp;&nbsp;&nbsp; <img src="gears.svg" width="300" alt="gears" />
 
 <sub>Always time to build.</sub>
 
 ### 🧬 Hexa Stack
 
-<img src="assets/hexagons.svg" width="400" alt="hexagon tech stack" />
+<img src="hexagons.svg" width="400" alt="hexagon tech stack" />
 
 <br>
 
@@ -221,16 +221,11 @@
 
 <br><br>
 
-<img src="assets/thanks.svg" width="480" alt="Thanks for your support" />
+<img src="thanks.svg" width="480" alt="Thanks for your support" />
 
 </div>
 
-<table width="100%">
-  <tr>
-    <td align="left"><a href="#">⬆ Back to Top</a></td>
-    <td align="right"><a href="#">⬆ Back to Top</a></td>
-  </tr>
-</table>
+<div align="center"><a href="#">⬆ Back to Top</a></div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=120&section=footer" alt="footer" />
